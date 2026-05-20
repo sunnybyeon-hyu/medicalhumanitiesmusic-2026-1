@@ -5,8 +5,9 @@ Genre: Film
 Disease: OCD,EatingDisorder
 ICD: F42,F50
 ---  
+https://youtu.be/EqrRVKJcN7I?si=6ib8clSK5ekOr9I7
 
-
+<img src="./image_file.png" alt="Black Swan psychological analysis and Swan Lake music interpretation" style="width:25%;" />
 # BlackSwan
 
 The work I selected is Black Swan. This film portrays the story of ballerina Nina Sayers as she experiences psychological pressure, obsessive-compulsive tendencies, eating disorders, and mental collapse while striving to deliver a perfect performance. The central piece of music used in the film is the “Swan Lake Theme” from Swan Lake, composed by Pyotr Ilyich Tchaikovsky. This classical ballet music conveys intense tension and extreme emotions, musically expressing the duality of purity and darkness represented by the White Swan and the Black Swan.
