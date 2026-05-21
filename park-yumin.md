@@ -10,7 +10,7 @@ ICD: G82.2
 
 The selected work is the film *Gattaca* (1997), and the music used is [“The Departure,”](https://youtu.be/ldkSV0gElxg?si=-WkPjRKZn_e2BSn7) which appears in the ending scene. This piece was composed by the British composer and musicologist Michael Laurence Nyman (born March 23, 1944). “The Departure” is an instrumental piece without lyrics. *Gattaca* is set in a future society where genetic engineering has advanced, and it tells the story of Vincent, who is judged at birth to have a weak heart and a short life expectancy, but borrows the identity of Jerome, a man with superior genes, in order to become an astronaut. In the ending, Vincent finally departs for space, while Jerome, who has a lower-body paralysis, makes his final choice in his own way. “The Departure” does not portray illness or disability simply as something sad and dark. The repeated minimalist melody recalls Vincent’s life of enduring constant tests and discrimination, while the gradually richer sound of the strings makes his departure feel not merely like an escape, but like a moment of overcoming his limits. This music does not fix Vincent’s congenital illness and Jerome’s disability as mere “defects”; instead, it embraces the process through which the two characters complete their dreams and meaning through each other’s limitations.
 
-<img src="./park-yumin.jpg" alt="Dream of Vincent" style="width:25%;" />
+<img src="./park-yumin.png" alt="Dream of Vincent" style="width:25%;" />
 
 # 가타카
 
