@@ -8,7 +8,7 @@ ICD: F32.3/ F33.3
 
 # Peter Grimes
 
-The opera Peter Grimes by the British composer Benjamin Britten (1913–1976) tells the tragic story of a fisherman, Peter Grimes, who becomes isolated and mentally unstable after being suspected of causing the deaths of his apprentices, ultimately ending his life at sea, while the text expresses themes of loneliness, anxiety, and psychological collapse.[Now the Great Bear and Pleiades](https://youtu.be/EuYuGtPK89s?si=rJFI-Krg8Hpx2ROv)
+The opera Peter Grimes by the British composer Benjamin Britten (1913–1976) tells the tragic story of a fisherman, Peter Grimes, who becomes isolated and mentally unstable after being suspected of causing the deaths of his apprentices, ultimately ending his life at sea, while the text expresses themes of loneliness, anxiety, and psychological collapse. [Now the Great Bear and Pleiades](https://youtu.be/EuYuGtPK89s?si=rJFI-Krg8Hpx2ROv)
 
 # 피터 그라임스
 
