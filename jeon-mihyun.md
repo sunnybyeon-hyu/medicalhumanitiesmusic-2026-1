@@ -1,4 +1,4 @@
-<img width="1122" height="1402" alt="peter grimes" src="https://github.com/user-attachments/assets/32c5eb8f-d2be-4195-a520-d87936a6e9e2" />
+
 ---
 Title: Peter Grimes
 year: 1945
