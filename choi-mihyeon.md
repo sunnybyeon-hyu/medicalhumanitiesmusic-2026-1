@@ -5,6 +5,9 @@ Genre: Film
 Creator: "James Marsh"
 Disease: Lou Gehrig's disease
 ICD: 8B60.0
+Music: "Arrival of the Birds"
+Composer: "Johann Johannsson"
+Type: "Movie"
 ---
 
 # The Theory of Everything
