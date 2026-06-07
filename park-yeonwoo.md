@@ -9,7 +9,8 @@ ICD: F28
 # The Lighthouse
 
 ## Video Link
-https://www.youtube.com/watch?v=FT28_6P4JNc&list=PLR8FGshhUmfSHhSWh5yESvcHyse54D42E%E3%85%8A
+
+[Watch on YouTube](https://www.youtube.com/watch?v=FT28_6P4JNc&list=PLR8FGshhUmfSHhSWh5yESvcHyse54D42E)
 
 The *Lighthouse* is a chamber opera composed in 1980 by the British composer Peter Maxwell Davies (1934–2016). It is based on the real disappearance of three lighthouse keepers from a remote Scottish lighthouse and explores themes of isolation, psychological anxiety, and mental instability. Written for a small ensemble, the opera is characterized by dissonance, repetitive rhythms, and sudden changes in sound. In particular, the tense repetitive rhythms convey feelings of obsession and pressure, while sharp dissonances and unpredictable pitch changes reflect fear, confusion, and a distorted sense of reality. Abrupt shifts in sound and irregular vocal lines further portray the characters’ growing suspicion of one another and their gradual psychological breakdown. As the three men become trapped in an isolated environment, they are increasingly consumed by anxiety and paranoia, eventually descending into madness. Through these musical techniques, the opera powerfully demonstrates how prolonged isolation and stress can affect the human mind.
 
