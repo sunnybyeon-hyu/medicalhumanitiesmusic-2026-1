@@ -44,7 +44,7 @@ I would like Arvo Pärt’s Spiegel im Spiegel to be played at my funeral. The p
 - [seo-jihui.md](./seo-jihui.md): 이 글은 〈Joker〉의 “Bathroom Dance”가 인물의 심리적·신경학적 불안정을 음악적으로 드러내는 방식을 분석하고 있어, 음악이 인물의 내면 상태를 표현하는 서사 장치라는 점에서 제 글과 연결됩니다.
 - [ryu-jimin.md](./ryu-jimin.md): 이 글은 마랭 마레의 작품이 수술의 고통과 신체적 고통을 음악적으로 묘사하는 방식을 다루고 있어, 음악이 질병과 신체 경험을 감각적으로 전달한다는 점에서 제 글과 관련이 있습니다.
 
-## 장례식에서 연주되긹 희망하는 음악
+## 장례식에서 연주되길 희망하는 음악
 
 장례식에서 연주되길 희망하는 음악: [Arvo Pärt - Spiegel im Spiegel] <https://www.youtube.com/watch?v=TJ6Mzvh3XCc>
 
