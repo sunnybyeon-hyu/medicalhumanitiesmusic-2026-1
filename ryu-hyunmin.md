@@ -15,7 +15,7 @@ The film highlights this rigid boundary through Ruby's training under her instru
 This clinical reductionism inherently ignores what Eric Cassell defines as "Illness"—the lived, subjective experience of the human being within their socio-cultural environment, as opposed to a mere "Disease" (ICD: H90.3) measured by data.
 *CODA* subverts this alienation by restoring Arthur Frank's "illness narrative" and channeling William Cheng's *Just Vibrations*, transforming music from an exclusive auditory act into an inclusive site of empathy and mutual recognition.
 
-The pinnacle of this subversion is revealed in the scene of Ruby's school choir performance. [Watch Official Choir Scene](https://www.youtube.com/watch?v=-1GJLMRKcyo)
+The pinnacle of this subversion is revealed in the scene of Ruby's school choir performance. [Watch official choir scene](https://www.youtube.com/watch?v=-1GJLMRKcyo)
 Amidst a series of beautiful harmonies, the film's sound suddenly switches to complete silence; this bold on-screen silence allows the audience to break away from the auditory-centric perspective of non-disabled people and fully experience the family's lifeworld firsthand.
 Instead of listening to their daughter's singing through their ears, the deaf parents share an emotional bond that transcends the barriers of language by observing the moved expressions of the surrounding audience, swaying shoulders, and the physical vibrations in the concert hall.
 This somatic communion bypasses the limitations noted by Elaine Scarry, who argued that intense bodily differences or sensory barriers destroy conventional language and require new forms of translation.
